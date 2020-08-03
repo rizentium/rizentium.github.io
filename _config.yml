@@ -1,6 +1,6 @@
-title: Rizentium
+title: rizentium
 logo: /assets/img/logo.png
-description: Hi, I'm Software Developer that have little bit sense of art to make the code clear and clean.
-show_downloads: true
-google_analytics:
+description: Hi, I'm Software Developer that have a little bit sense of art to make the code clear and clean.
+show_downloads: false
+google_analytics: UA-174351106-1
 theme: jekyll-theme-minimal
